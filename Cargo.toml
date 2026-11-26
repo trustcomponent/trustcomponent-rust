@@ -1,6 +1,6 @@
 [package]
 name = "trustcomponent"
-version = "0.0.1-beta.0"
+version = "0.0.1-beta.1"
 description = "Official TrustComponent SDK for Rust: TrustCaptcha, TrustAnalytics, TrustMonitoring, Trust VAT Checker and the platform API."
 authors = ["Trustcaptcha GmbH <mail@trustcomponent.com>"]
 license = "MIT"

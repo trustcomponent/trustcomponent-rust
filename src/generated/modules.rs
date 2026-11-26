@@ -178,5 +178,5 @@ impl PlatformEvents {
 }
 
 /// The SDK version, also sent in the User-Agent.
-pub const VERSION: &str = "0.0.1-beta.0";
-pub(crate) const API_VERSION: &str = "0.0.1-beta.0";
+pub const VERSION: &str = "0.0.1-beta.1";
+pub(crate) const API_VERSION: &str = "0.0.1-beta.1";
